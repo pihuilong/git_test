@@ -1,0 +1,7 @@
+{
+  "name": "git_demo",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "author": "Hiram <hl.pi@aftership.com>",
+  "license": "MIT"
+}
