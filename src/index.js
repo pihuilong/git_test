@@ -5,6 +5,7 @@ const helloWorld = () => {
   console.log('I am f3');
   console.log('f4');
   console.log('f5');
+  console.log('f6');
 }
 
 module.exports = helloWorld;
