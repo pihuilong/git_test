@@ -6,6 +6,7 @@ const helloWorld = () => {
   console.log('f4');
   console.log('f5');
   console.log('f6');
+  console.log('f6-1');
 }
 
 module.exports = helloWorld;
